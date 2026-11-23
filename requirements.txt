@@ -1,0 +1,15 @@
+# Tested on Linux x86-64, CPython 3.12.14. TensorFlow uses CPU.
+tensorflow-cpu==2.20.0
+keras==3.15.1
+scikit-learn==1.8.0
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+matplotlib==3.10.8
+seaborn==0.13.2
+# Notebook display, kernel, file handling and command-line execution
+ipython==9.18.1
+ipykernel==7.4.0
+nbformat==5.11.1
+nbclient==0.11.0
+jupyter-client==8.10.0
